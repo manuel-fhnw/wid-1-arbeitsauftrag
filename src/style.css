@@ -1,0 +1,22 @@
+button {
+    height: 30px;
+    width: 100px; 
+    border: 1px dashed blue;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #E0115F;
+    cursor: pointer;
+}
+
+#Kinderelement {
+    height: 40px;
+    width: 60px; 
+    border: 1px solid black;
+}
+
+span {
+    height: 40px;
+    width: 60px; 
+    border: 1px solid black;
+}
